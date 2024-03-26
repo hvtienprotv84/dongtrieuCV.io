@@ -5,4 +5,4 @@
 * Trieu edited
 * Trieu edited last pull request
 
-* Tien da chinh sua case2
+* Tien da chinh sua case 2 ne
